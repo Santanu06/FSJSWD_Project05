@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    margin: 0px;
+
+}
+.navbar{
+    background-color: rgb(14, 10, 10);
+    height: 55px;
+}
+.navbar div{
+    display: inline-block;
+}
+.navbar .logo{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+    width: 80px;
+    height: 30px;
+} 
+.navbar .line{
+    position: absolute;
+    left: 250px;
+    top: 14px;
+    border-left: 2px solid #777777;
+    height: 35px;
+}
+.navbar .grow-list{
+    position: absolute;
+    top:18px;
+    left: 290px;
+    font-family: Montserrat;
+
+}
+.navbar .button-small{
+    position: absolute;
+    top:14px;
+    right: 65px;
+    padding: 5px 10px;
+    background-color: #ba0cc5;
+    color: aliceblue;
+    border-radius: 6px;
+}
+.list .list-item{
+    display: inline-block;
+    color: azure;
+    margin-right: 40px;
+}
+
+.navbar div button-small{
+    right: 50px;
+}
+
+/* .container{
+  background-image: url("./assets/bg.png");   
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  background-position-y: 50px;
+}  */
+  body{
+    background-image: url('./assets/bg.png');
+    background-position: center;
+    background-size: cover;
+    height: 800px; 
+    background-position-y: 50px;
+} 
+.hero{
+    position: absolute;
+    top: 200px;
+    left: 280px;
+    color: aliceblue;
+
+}
+.hero-heading{
+    color: aliceblue;
+    font-size: 70px;
+    font-family: Montserrat;
+    text-align: center
+}
+.hero-description{
+    margin-top: 15px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 27px;
+}
+.button-large{
+    position: relative;
+    top:50px;
+    left:210px;
+    padding: 10px 25px;
+    font-size: 22px;
+    font-family: Montserrat;
+    background-color: #ba0cc5;
+    border: 1px solid #ba0cc5;
+    border-radius: 10px;
+    color: aliceblue;
+}
+   
