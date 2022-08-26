@@ -1,4 +1,4 @@
-# Project 05
+# Crypto Landing page
 
 ## Santanu Kumar Sahu
 
@@ -9,3 +9,8 @@ Using css position absolute attribute compeleted the project.i have learned a lo
 
 ### Live Link of this Project
 [ProjectLink](https://fsjswdproject05.netlify.app/)
+
+## Screen shorts of this Project
+
+### Web view
+![Web view](/screenshots/web-view.png)
